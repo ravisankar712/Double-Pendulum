@@ -1,2 +1,4 @@
 # Double-Pendulum
-The double pendulum using 3Blue1Brown's Manim! 
+The double pendulum using 3Blue1Brown's Manim!   
+  
+  ![](dbpend.gif)
